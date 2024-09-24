@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Room</title>
+    <link rel="stylesheet" href="chat.css">
+    <script src="/socket.io/socket.io.js" defer></script>
+    <script src="chat.js" defer></script>
+</head>
+
+<body>
+    <div class="chat-header">
+        FSE Chat Room
+        <button onclick="logout()">Logout</button>
+    </div>
+    <div class="chat-container" id="chat-container">
+    </div>
+    <div class="chat-input-container">
+        <input type="text" id="message-input" placeholder="Type your message here..." required>
+        <div class="chat-input">
+            <button onclick="send_message_from_user()">POST</button>
+        </div>
+    </div>
+</body>
+
+</html>

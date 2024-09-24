@@ -1,0 +1,155 @@
+*** References I looked at during this assignment ***
+
+
+HTML
+https://www.tutorialspoint.com/html/index.htm
+
+https://www.w3schools.com/html/
+
+https://www.geeksforgeeks.org/html-tutorial/
+
+https://www.linkedin.com/advice/0/what-best-practices-naming-css-classes-ids-front-end-ecv7e#:~:text=image%2D%2Dlarge.-,3%20Use%20lowercase%20and%20hyphens%20for%20classes%2C%20camelCase%20for%20IDs,in%20some%20browsers%20or%20environments.
+
+https://webcode.tools/html-generator/input-button
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+
+
+CSS
+https://www.w3schools.com/css/
+
+https://webcode.tools/css-generator
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
+
+https://www.w3schools.com/cssref/sel_hover.php
+
+
+JavaScript
+https://www.javascripttutorial.net/
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+https://www.geeksforgeeks.org/javascript/
+https://www.w3schools.com/js/js_callback.asp
+
+
+Node.js: 
+
+https://nodejs.org/api/synopsis.html
+
+https://www.w3schools.com/nodejs/
+
+https://www.geeksforgeeks.org/how-to-run-node-js-server/
+
+https://www.w3schools.com/nodejs/nodejs_http.asp
+
+https://www.geeksforgeeks.org/node-js-examples/
+
+https://www.npmjs.com/package/body-parser
+
+https://www.geeksforgeeks.org/body-parser-middleware-in-node-js/
+
+https://www.youtube.com/watch?v=U8XF6AFGqlc
+
+https://www.youtube.com/watch?v=U8XF6AFGqlc
+
+https://www.youtube.com/watch?v=f2EqECiTBL8
+
+
+Express.js
+https://expressjs.com/
+
+https://www.geeksforgeeks.org/express-js/
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+https://www.geeksforgeeks.org/express-js-res-sendfile-function/
+
+https://expressjs.com/en/starter/examples.html
+
+https://www.freecodecamp.org/news/express-explained-with-examples-installation-routing-middleware-and-more/
+
+
+Socket.IO
+
+https://socket.io/
+
+https://socket.io/how-to/build-a-basic-client
+
+https://codesandbox.io/examples/package/socket.io
+
+https://gist.github.com/luciopaiva/e6f60bd6e156714f0c5505c2be8e06d8
+
+https://tsh.io/blog/socket-io-tutorial-real-time-communication/
+
+
+SQLite3
+https://www.sqlitetutorial.net/
+
+https://coda.io/@peter-sigurdson/using-sqlite-in-the-node-js-full-stack-web-application
+
+https://www.tutorialspoint.com/sqlite/index.htm
+
+https://www.guru99.com/sqlite-tutorial.html
+
+https://www.youtube.com/watch?v=0DZ472GiVNw
+
+
+Status/Error Code
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+
+General Reference:
+https://www.workfall.com/learning/blog/how-to-build-an-interactive-real-time-chat-application-with-websockets/
+
+https://sahilali.medium.com/5-commonly-used-folder-structure-in-web-development-68bdcb2d313e
+
+https://www.youtube.com/watch?v=ba4T590JPnw
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*** ChatGPT commands ***
+
+1. I am developing an easy web app.  What is the logic of the user login and registration process, and how should the client and server connect and interact? Give me a detailed explanation of the text process and some examples.
+
+2. I want to use socket.io, what is the process between the client and server when a user is sending a message?
+
+3. What is the major difference between id and class, when should I use each? Give me a lot examples to show.
+a. I am okay to use id for everywhere?
+b. What are naming conventions for id and class?
+
+4. What Error Code should I use for the following cases:
+a. 'Username already exists.'
+b. 'Database error.'
+
+5. From the client side to send a message to the server, how can I send data? What format should I use, give me some examples.
+
+6. How to convert the JavaScript object to JSON string? Give me some examples.
+
+7. How to convert time to the following timestamp format: day / month / year, hour: minute AM/PM?
+
+8.  If I want to send data from the client to the server or from the server to the client, how can I make it and what are the functions and processes to do it? You need to give me detailed processes and examples.
+
+9. I emit a message from the client side to the server, but the server does not receive it. What is the reason? 
+
+10.   How to insert an inner chat message, which is a div into the original div? What functions can support me in doing this?
+
+11.   After the client receives success from the server, how can I jump from the login page to the register page?
+
+12.   Should I use window.location.href or window.location.replace? What are the differences between them? What do you mean  “the session history” in your previous response?
+
+13.   (Paste my piece of code), Check my login server-side logic. After the user gives a wrong password, my app directly exits, how do I fix it? I do not want the app to exit.
+a. Why do I need to check whether the user exists first?
+
+14.   (Paste a screenshot), do you know what this color is? Give me this color in CSS.
+
+15.   How to process multiple elements in CSS at the same time?
+ 
+16.   How do I use CSS or JS to implement the below requirement: “when my mouse is on a button, and then the button can change a color ?”
+a. How to show an underlink when the mouse is on a hyperlink?
+
+17.   (Paste a screenshot), as you can see from the picture, it does not perfectly match the phone view for the chat page. I want you to fix the screen, not allow it to move left and right, up and down for the whole page. What CSS attributes can help me to do this?
+
+18.   There are still some commands, but delete the chat history so I cannot find them and write them down here. They basically ask about CSS. 
