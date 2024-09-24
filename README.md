@@ -3,6 +3,8 @@
 ## Overview
 
 This project is a real-time chat application that allows users to register, log in, and participate in a chat room where they can send and read messages instantly. 
+Demo Video: https://www.youtube.com/watch?v=rPgoKitCbP8
+
 ## Table of Contents
 
 - [Features](#features)
